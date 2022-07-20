@@ -2214,7 +2214,7 @@ input, select, textarea {
 		#footer form input[type="password"],
 		#footer form select,
 		#footer form textarea {
-			background: #ffa500;
+			background: #fffff;
 		}
 
 			#footer form input[type="text"]:focus,
@@ -2222,7 +2222,7 @@ input, select, textarea {
 			#footer form input[type="password"]:focus,
 			#footer form select:focus,
 			#footer form textarea:focus {
-				background: #ffa500;
+				background: #fffff;
 			}
 
 		#footer h2 {
