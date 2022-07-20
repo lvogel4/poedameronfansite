@@ -98,15 +98,15 @@ input, select, textarea {
 		}
 
 	body, input, textarea, select {
-		font-family: 'Source Sans Pro';
+		font-family: 'Times New Roman', Times, serif;
 		font-weight: 300;
 		color: #fff;
 		line-height: 1.65em;
-		font-size: 15pt;
+		font-size: 16pt;
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		font-weight: 600;
+		font-weight: 800;
 		text-transform: uppercase;
 		color: #fff;
 	}
@@ -118,7 +118,7 @@ input, select, textarea {
 	}
 
 	h2 {
-		font-size: 1.65em;
+		font-size: 1.50em;
 		font-weight: 400;
 		letter-spacing: 4px;
 		margin: 0 0 1.5em 0;
@@ -126,7 +126,7 @@ input, select, textarea {
 	}
 
 	h3 {
-		font-size: 1em;
+		font-size: 3em;
 		letter-spacing: 2px;
 		margin: 0 0 1.25em 0;
 	}
@@ -1634,7 +1634,7 @@ input, select, textarea {
 				top: 2.6em;
 				display: block;
 				font-size: 0.8em;
-				background: #ffa000;
+				background: #fffff;
 				color: #fffff;
 				width: 2em;
 				height: 2em;
@@ -1655,7 +1655,7 @@ input, select, textarea {
 /* Form */
 
 	form label {
-		font-weight: 600;
+		font-weight: 500;
 		text-transform: uppercase;
 		color: #fff;
 		display: block;
@@ -1691,7 +1691,7 @@ input, select, textarea {
 		}
 
 	form textarea {
-		min-height: 11em;
+		min-height: 13em;
 	}
 
 	form ::-webkit-input-placeholder {
@@ -1915,7 +1915,7 @@ input, select, textarea {
 		}
 
 		#header h1 {
-			font-family: 'Arvo';
+			font-family: 'Arial';
 			font-weight: 700;
 			color: #fffff;
 			text-shadow: 0.05em 0.075em 0 rgba(0, 0, 0, 0.1);
@@ -2082,7 +2082,7 @@ input, select, textarea {
 	#features {
 		position: relative;
 		overflow: hidden;
-		background: #fffa500;
+		background: #ffa500;
 		text-align: center;
 		padding: 6em 0;
 	}
@@ -2205,7 +2205,7 @@ input, select, textarea {
 		position: relative;
 		overflow: hidden;
 		border-top: solid 2px #ffa500;
-		background: #ffa500;
+		background: #fffff;
 		padding: 6em 0 8em 0;
 	}
 
@@ -2232,7 +2232,7 @@ input, select, textarea {
 /* Copyright */
 
 	#copyright {
-		border-top: solid 2px #ffa500;
+		border-top: solid 2px #fffff;
 		text-align: center;
 		margin-top: 6em;
 		padding-top: 4em;
