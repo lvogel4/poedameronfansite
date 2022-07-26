@@ -1490,7 +1490,8 @@ input, select, textarea {
 	}
 	
 	.imageclass {
-  object-fit: cover;
+  			object-fit: cover;
+
 }
 
 		.image:hover {
