@@ -1488,6 +1488,10 @@ input, select, textarea {
 		display: inline-block;
 		border: solid 6px #00000 !important;
 	}
+	
+	.imageclass {
+  object-fit: cover;
+}
 
 		.image:hover {
 			opacity: 0.9;
